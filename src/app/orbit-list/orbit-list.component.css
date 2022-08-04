@@ -27,7 +27,6 @@ th, td {
 	padding: 6px;
 }
 
-.stripe {
-	background-color: #361002;
-	color: #04ff34;
-}
+tr:nth-child(even) {
+	background-color: #36d4e2;
+  }
